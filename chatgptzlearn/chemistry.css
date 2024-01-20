@@ -1,0 +1,46 @@
+/* Add your existing CSS styles here */
+
+/* Additional styling for the chemistry page */
+.experiment-container {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #3498db; /* Experiment title color */
+}
+
+.virtual-lab {
+    /* Add styling for the virtual lab environment */
+    background-color: #f1f1f1; /* Background color for the virtual lab */
+    padding: 20px;
+    border-radius: 10px; /* Radius for the virtual lab container */
+}
+
+.experiment-controls {
+    /* Add styling for experiment controls */
+    margin-top: 20px;
+}
+
+
+
+
+/* Add your existing CSS styles here */
+
+/* Additional styling for the acid-base reaction page */
+.acid-container, .base-container, .result-container {
+    /* Styling for the containers */
+    display: inline-block;
+    margin: 10px;
+}
+
+img {
+    /* Add styling for the animation images */
+    max-width: 100%;
+    height: auto;
+}
+
+/* Add any other styling you need for the content within the acid-base reaction page */
+
+
+/* Add any other styling you need for the content within the chemistry page */
